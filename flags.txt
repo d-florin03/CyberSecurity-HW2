@@ -1,0 +1,4 @@
+1.message-send: SpeishFlag{eVaxaBSJc6PCfPLaFI2NPoqZfymAGbH0}
+2.ghost-in-the-shell: SpeishFlag{lI4lzAtEwzTGgJY1v5eYorEbAhUdiTyp}
+3.jwt-auth: SpeishFlag{1Qgtrgp60WjfR4NlvYSwzdiqBmM8s7ih}
+4.sqli-cart: SpeishFlag{yV2H9jQLCqAWOWBed9QTkU8xiAqsY5rj}
